@@ -31,3 +31,6 @@ total and percentage of the marks. Assume 100 as maximum marks of each subject.I
 percentage is more than 85 display the message “Grade A” and if it is less than 50 then
 display “need to work hard” and for others display message “can do better”.
 
+UPDATE:
+I'VE POSTED ALL THE CODES SEPERATELY.. DON'T WORRY THE CODES ARE TESTED AND THEY RUN PERFECTLY
+YES DO KEEP IN MIND THAT I'VE LEFT SOME TRADEMARK STYLES OF MINE, IN SEVERAL PRINT COMANNDS OF THE THE PART (8) SO CAREFULLY EDIT IT...
