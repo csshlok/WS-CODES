@@ -1,0 +1,8 @@
+x=0
+y=5
+if (x==1& y<10):
+     print("matched!!")
+     print("*****")
+else:
+     print("No match")
+     print ("####")
